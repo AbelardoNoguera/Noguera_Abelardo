@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background:#08EEDC ;
+	font-family: verdana;
+}
+/*Propiedades para la cabecera*/
+#cabecera{
+background-color: #000;
+color: #38A8F5;
+padding: 1%;
+}
+#columnas{
+background-color: #black;
+overflow: hidden;
+padding-bottom: 1%;
+}
+#contenedor{
+	margin: 50px auto;
+	width: 100%;
+}
+#contenido{
+	background-color: #ddd;
+	float: left;
+margin-bottom: 32767px;
+max-width: moz-cal(92%-120px);
+max-width: webkit-calc(92% -120%);
+padding: 10%;
+padding-bottom: 32767px;
+width: 70%;
+
+
+
+
+}
